@@ -91,26 +91,11 @@ plt.show()
 
 ## Output:
 
-Name:Balasurya S
+<img width="806" height="569" alt="Screenshot 2026-03-28 134728" src="https://github.com/user-attachments/assets/5751f988-5a2b-4519-b4bc-29f77624c260" />
 
-Reg. No:25000944 
+<img width="329" height="175" alt="Screenshot 2026-03-28 134735" src="https://github.com/user-attachments/assets/08a081a9-f0cf-45f6-98d6-056aa86d9e84" />
 
-Linear Regression:
-
-MSE= 16471505.900042146
-
-R2 Score= 0.7913520781370976
-
-MAE= 2892.628134137953
-
-Polynomial Regression:
-
-MSE: 15247661.89
-
-R^2: 0.81
-
-MAE: 2694.05
-
+<img width="248" height="136" alt="Screenshot 2026-03-28 134739" src="https://github.com/user-attachments/assets/1f49a901-60da-46ce-ac52-c577016b0a19" />
 
                                              LINEAR VS POLYNOMIAL REGRESSION
 <img width="868" height="468" alt="image" src="https://github.com/user-attachments/assets/e07ebc03-c640-45e8-a775-8fb6703b7174" />
