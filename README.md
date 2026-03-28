@@ -92,15 +92,23 @@ plt.show()
 ## Output:
 
 Name:Balasurya S
+
 Reg. No:25000944 
+
 Linear Regression:
+
 MSE= 16471505.900042146
+
 R2 Score= 0.7913520781370976
+
 MAE= 2892.628134137953
 
 Polynomial Regression:
+
 MSE: 15247661.89
+
 R^2: 0.81
+
 MAE: 2694.05
 
 
