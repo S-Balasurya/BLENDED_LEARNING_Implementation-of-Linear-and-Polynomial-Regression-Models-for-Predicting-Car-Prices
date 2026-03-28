@@ -91,7 +91,20 @@ plt.show()
 
 ## Output:
 
-LINEAR VS POLYNOMIAL REGRESSION
+Name:Balasurya S
+Reg. No:25000944 
+Linear Regression:
+MSE= 16471505.900042146
+R2 Score= 0.7913520781370976
+MAE= 2892.628134137953
+
+Polynomial Regression:
+MSE: 15247661.89
+R^2: 0.81
+MAE: 2694.05
+
+
+                                             LINEAR VS POLYNOMIAL REGRESSION
 <img width="868" height="468" alt="image" src="https://github.com/user-attachments/assets/e07ebc03-c640-45e8-a775-8fb6703b7174" />
 
 ## Result:
